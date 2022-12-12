@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20!%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Front-end%20Developer%20-%20Yulia's%20GitHub!&descAlignY=51&descAlign=62)
 
 
-
+<br><br><br><br>
 
 <div align="center">
 
@@ -25,11 +25,15 @@
 
 </div>
 
-<br><br>
+<br><br><br><br>
  <hr> 
   
-
+<br><br>
+  
+  
 [![Yuuulya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuulya)](https://github.com/yuuulya/github-readme-stats)
   
   
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+  <br><br>
+  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
