@@ -17,7 +17,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 <b>💻Once I've used
 
@@ -26,4 +26,10 @@
 </div>
 
 <br><br>
- [![Yuuulya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuulya)](https://github.com/yuuulya/github-readme-stats)
+ <hr> 
+  
+
+[![Yuuulya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuulya)](https://github.com/yuuulya/github-readme-stats)
+  
+  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
