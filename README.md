@@ -1,15 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20!%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Front-end%20Developer%20-%20Yulia's%20GitHub!&descAlignY=51&descAlign=62)
 
 
-[![Yuuulya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuulya)](https://github.com/yuuulya/github-readme-stats)
+
 
 <div align="center">
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuulya&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuulya&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 
-### Yuuulya 🐥
+### Yuuulya 🐳
 
----
+  <p align='center'>
+  <a href="https://bluepinetree.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+  </a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 </div>
 
@@ -21,3 +25,5 @@
 
 </div>
 
+<br><br>
+ [![Yuuulya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuulya)](https://github.com/yuuulya/github-readme-stats)
