@@ -1,11 +1,12 @@
+
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20!%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Front-end%20Developer%20-%20Yulia's%20GitHub!&descAlignY=51&descAlign=62)
 
 
 <br><br><br><br>
 
-<div align="center">
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuulya&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 
 ### Yuuulya 🐳
 
@@ -15,9 +16,9 @@
   </a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
-</div>
 
-<div align="left">
+<br /><br /><br />
+<div align="center">
 
 <b>💻Once I've used
 
@@ -30,10 +31,7 @@
   
 <br><br>
   
+
   
-[![Yuuulya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuulya)](https://github.com/yuuulya/github-readme-stats)
-  
-  
-  <br><br>
-  
+</div>
 
